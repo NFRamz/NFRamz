@@ -4,8 +4,13 @@
     </p>
 </div>
 
-<h2 align="center">Hey there!</h2>
-F
+<p align="center">
+•●•
+<h1 align="center">Hello, I'm NF_Ramz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center"
+  <a href="https://github.com/NFRamz"><img src="https://readme-typing-svg.herokuapp.com?lines=Universitas+Muhammadiyah+Malang;Fakultas+Teknik;Informatika;&center=true&width=500&height=50"></a>
+</p>
+Mahasiswa S1 Informatika UMM yang tertarik pada mobile development, UI&UX Design. Pernah mempelajari bahasa pemrograman python, java, javascript, php. Serta beberapa Framework seperti Laravel, Flutter
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
@@ -14,32 +19,33 @@ F
 ```yaml
 My Profile
 -------------------------------
-Username: NFRamz
-Whoami: Normal People.
-Languages: Indonesia
-Location: Jawa Timur, Indonesia.
+Username  : NFRamz
+Name      : Naufal R.
+Languages : Indonesia
+Location  : Jawa Timur, Indonesia.
 ```
-
+<h2 align="center"> ✨ My Playlist ✨ </h2>
 <div>
 <br>
 <br>
 <br>
 <br>
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=O48gok_FLCg"><img src = "https://i.ytimg.com/vi/O48gok_FLCg/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>7!! - Orange </b></p>
+<p align="right"><a href = "https://music.youtube.com/watch?v=d5x9SNiSUO8"><img src = "https://i.ytimg.com/vi/d5x9SNiSUO8/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Inez - Menak Wle Meni </b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=WwyDpKXG83A"><img  src ="https://i.ytimg.com/vi_webp/WwyDpKXG83A/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - Grand Escape (feat. Toko Miura)</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=wIwWfmdIVUE"><img  src ="https://i.ytimg.com/vi_webp/wIwWfmdIVUE/maxresdefault.webp" width="170" align="right"></a><b><br><br>
+Ngga Dulu - Akbar Chalay, ciloqciliq, Zynakal (Official Music Video)</b></p>
 
 <br>
 <br>
 
-<p align="right"><a href="https://music.youtube.com/watch?v=2kBD6ZueXNo"><img src="https://i.ytimg.com/vi_webp/2kBD6ZueXNo/maxresdefault.webp" width="170" align="left"></a><b><br>Aoi Tada - 灼け落ちない翼</b></p>
+<p align="right"><a href="https://music.youtube.com/watch?v=k7ip_-62pII"><img src="https://i.ytimg.com/vi_webp/k7ip_-62pII/maxresdefault.webp" width="170" align="left"></a><b><br>Nadin Amizah - Bertaut (Rock Cover by Axy! Feat. Adelia)</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=OqQAFmkrzew"><img  src ="https://i.ytimg.com/vi_webp/OqQAFmkrzew/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - すずめ feat.</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=TYDfdeUGSQc"><img  src ="https://i.ytimg.com/vi_webp/TYDfdeUGSQc/maxresdefault.webp" width="170" align="right"></a><b><br><br>Bondan&Fade2Black - Bunga</b></p>
 
 <br>
 </div>
@@ -51,13 +57,26 @@ Location: Jawa Timur, Indonesia.
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,react,wordpress,nodejs,git,vscode,idea,webstorm,androidstudio,flutter,tailwind,laravel,ae,sketchupcloudflare,replit,netlify,vercel,linux,windows,mysql,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,react,wordpress,nodejs,git,vscode,idea,webstorm,pycharm,androidstudio,flutter,tailwind,laravel,ae,sketchup,cloudflare,vercel,linux,windows,mysql,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
     </a>
 </p>
 </div>
 <br>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ShirokamiRyzen&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NFRamz/NFRamz/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NFRamz/NFRamz/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/NFRamz/NFRamz/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <br>
 <br>
 
@@ -76,15 +95,3 @@ response:** [NFRamz](https://www.instagram.com/nframz)
 
 <br> 
 <br>
-
-<h1 align="center">Support Me</h1>
-
-<p align="center">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-  </picture>
-</div>
-</p>
