@@ -24,11 +24,9 @@ Name      : Naufal R.
 Languages : Indonesia
 Location  : Jawa Timur, Indonesia.
 ```
+<br>
 <h2 align="center"> ✨ My Playlist ✨ </h2>
 <div>
-<br>
-<br>
-<br>
 <br>
 
 <p align="right"><a href = "https://music.youtube.com/watch?v=d5x9SNiSUO8"><img src = "https://i.ytimg.com/vi/d5x9SNiSUO8/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Inez - Menak Wle Meni </b></p>
