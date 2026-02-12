@@ -59,10 +59,6 @@ Location: Jawa Timur, Indonesia.
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ShirokamiRyzen&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
 <br>
-<div align="center">
-    <img width="625em" src="./github-metrics.svg" />
-</div>
-<br>
 <br>
 
 <!-- <br><br><br><br> -->
@@ -84,7 +80,11 @@ response:** [NFRamz](https://www.instagram.com/nframz)
 <h1 align="center">Support Me</h1>
 
 <p align="center">
-    <a href="https://github.com/sponsors/NFRamz" target="_blank">
-        <img src="https://telegra.ph/file/14a7745f434cd21e900d6.jpg">
-    </a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+  </picture>
+</div>
 </p>
