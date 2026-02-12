@@ -56,10 +56,6 @@ Location: Jawa Timur, Indonesia.
 </p>
 </div>
 <br>
-
-<div>
-<h2 align="center"> 📊 Statistics 📊 </h2>
-</div>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ShirokamiRyzen&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
 <br>
