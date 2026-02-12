@@ -51,7 +51,7 @@ Location: Jawa Timur, Indonesia.
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,react,wordpress,nodejs,git,vscode,idea,webstorm,androidstudio,flutter,tailwind,laravel,ae,sketchupcloudflare,replit,netlify,vercel,linux,windows,mysql,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
     </a>
 </p>
 </div>
