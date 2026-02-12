@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@NFRamz?name=NFRamz&theme=booru-lewd">
+        <img align="center" alt="count" src="https://count.getloli.com/@NFRamz?name=NFRamz&theme=love-and-deepspace">
     </p>
 </div>
 
