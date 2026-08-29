@@ -10,7 +10,7 @@
 <p align="center"
   <a href="https://github.com/NFRamz"><img src="https://readme-typing-svg.herokuapp.com?lines=Universitas+Muhammadiyah+Malang;Fakultas+Teknik;Informatika;&center=true&width=500&height=50"></a>
 </p>
-Mahasiswa S1 Informatika UMM yang tertarik pada mobile development, UI&UX Design. Pernah mempelajari bahasa pemrograman python, java, javascript, php. Serta beberapa Framework seperti Laravel, Flutter
+Mahasiswa Informatika UMM yang tertarik pada mobile development, UI&UX Design. Pernah mempelajari bahasa pemrograman python, java, javascript, php. Serta beberapa Framework seperti Laravel, Flutter
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
